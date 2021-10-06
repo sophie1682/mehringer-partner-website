@@ -1,0 +1,10 @@
+.cache
+*.obj
+
+node_modules/*
+public/
+build/
+node_modules
+.vs
+bin
+obj
